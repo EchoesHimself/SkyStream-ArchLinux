@@ -1,0 +1,16 @@
+pkgbase = skystream
+	pkgdesc = Free Movies & TV-Series Streaming App
+	pkgver = 2.9.0
+	pkgrel = 1
+	url = https://github.com/akashdh11/skystream
+	arch = x86_64
+	depends = libvlc
+	depends = webkit2gtk-4.1
+	depends = gtk3
+	depends = libsecret
+	source = skystream.tar.gz::https://github.com/akashdh11/skystream/releases/download/v2.9.0/skystream-linux-x64-v2.9.0.tar.gz
+	source = Licence::https://github.com/akashdh11/skystream/blob/master/LICENSE
+	sha256sums = 8421d108d98989cb4a865ee4548e711847eda0d094dfe7299734dfe8ffeed46c
+	sha256sums = b509c8a2a2d40b53ae22d2331ce2f0a555342cdecba58542bda58ea084460955
+
+pkgname = skystream

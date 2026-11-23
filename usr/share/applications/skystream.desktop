@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SkyStream
+Comment=Movies & TV-Series Streaming
+Exec=skystream
+Icon=skystream
+Terminal=false
+Type=Application
+StartupNotify=true
